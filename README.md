@@ -1,16 +1,91 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />, I'm <a href="https://www.linkedin.com/in/sahil-gevariya/" rel="nofollow">Sahil!</a>
 
-<!--
-**sahilgevariya/sahilgevariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/sahil-gevariya/" rel="nofollow">
+    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" style="max-width: 100%;"/>
+</a>
+<a href="https://github.com/sahilgevariya" rel="nofollow">
+    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" style="max-width: 100%;"/>
+</a>
+<a href="mailto:sahilgevariya@gmail.com">
+    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" style="max-width: 100%;"/>
+</a>
+<a href="https://leetcode.com/sahil329/" rel="nofollow">
+    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="leetcode" style="max-width: 100%;"/>
+</a>
+<a href="" rel="nofollow">
+    <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" style="max-width: 100%;"/>
+</a>
 
-Here are some ideas to get you started:
+## About Me 🚀
+🎓 An Engineering and Product enthusiast, highly motivated and interested in Software Development and solving problems for the people and building something which they need with the help of Technology and Applications. I believe that an undeterred will can overcome any kind of bug in code and obstacle in life.
+<br/>
+🎓 My love towards technology and Product Development, in particular, is immense and drives me ahead trying to make this world a better place for everyone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="max-width: 100%;">
+- **Programming Languages**
+<ul>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
+</a>
+</ul>
+
+- **Frontend Development**
+<ul>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize-css"/>
+</a>
+</ul>
+
+- **Backend Development**
+<ul>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql"/>
+</a>
+</ul>
+
+- **Mobile App Development**
+<ul>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://reactnative.dev/img/header_logo.svg" alt="react-native"/>
+</a>
+</ul>
+
+- **Database & Tools**
+<ul>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe-xd"/>
+</a>
+</ul>
+
+## My Github Status 🦸
+<a target="_blank" rel="noopener noreferrer" href="#">
+   <img src="https://github-readme-stats.vercel.app/api?username=sahilgevariya&show_icons=true&theme=default">
+</a>
+<div align="center" dir="auto"><h3 dir="auto">Show some ❤️ by starring some of the repositories!</h3></div>
